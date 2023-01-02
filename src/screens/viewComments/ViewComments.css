@@ -1,0 +1,23 @@
+.btn.btn-danger.btn-space{
+   
+}
+
+.btn.btn-danger.btn-space.mostrar{
+    display: block;
+}
+
+.bs-component .RETURNED{
+    background-color: rgb(223, 85, 85);
+}
+
+.commentDepartament.view{
+    display: block;
+}
+
+.commentDepartament{
+    display: none;
+}
+
+.title2{
+    font-size: 24px;
+}
